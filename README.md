@@ -4,6 +4,9 @@ This project is an implementation of the research paper ”End to End Learning f
 
 
 🛠 Technologies Used
+
+
+
 	•	Deep Learning Framework: PyTorch
 	•	Computer Vision: OpenCV
 	•	Simulation Environment: Udacity Self-Driving Car Simulator
