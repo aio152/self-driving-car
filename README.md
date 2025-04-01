@@ -11,7 +11,12 @@ This project is an implementation of the research paper ”End to End Learning f
 	•	Computer Vision: OpenCV
 	•	Simulation Environment: Udacity Self-Driving Car Simulator
 	•	Programming Language: Python
+ 
 
+ 📜 References  
+- [End to End Learning for Self-Driving Cars (NVIDIA, 2016)][paper-link]  
+
+[paper-link]: https://arxiv.org/abs/1604.07316
 
  ![Demo GIF](Images/demo_gif.gif)
 
